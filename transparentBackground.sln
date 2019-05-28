@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transparentBackground", "transparentBackground\transparentBackground.csproj", "{BDE107E1-4209-481B-9ADC-E8F0E1F59078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE107E1-4209-481B-9ADC-E8F0E1F59078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE107E1-4209-481B-9ADC-E8F0E1F59078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE107E1-4209-481B-9ADC-E8F0E1F59078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE107E1-4209-481B-9ADC-E8F0E1F59078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AFDE7AB-8330-4CEF-91D1-C3E29E1E91C9}
+	EndGlobalSection
+EndGlobal

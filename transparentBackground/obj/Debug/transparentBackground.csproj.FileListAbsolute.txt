@@ -1,0 +1,10 @@
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\bin\Debug\transparentBackground.exe.config
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\bin\Debug\transparentBackground.exe
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\bin\Debug\transparentBackground.pdb
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.csprojAssemblyReference.cache
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.Form1.resources
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.Properties.Resources.resources
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.csproj.GenerateResource.cache
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.csproj.CoreCompileInputs.cache
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.exe
+C:\Users\Antor\source\repos\transparentBackground\transparentBackground\obj\Debug\transparentBackground.pdb
